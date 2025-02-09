@@ -9,7 +9,7 @@ export const InicioScreens = () => {
 
     const [username, setUsername] = React.useState('');
     const [password, setPassword] = React.useState('');
-    const [passwordVisible, setPasswordVisible] = React.useState(false); // Estado para la visibilidad de la contraseña
+    const [passwordVisible, setPasswordVisible] = React.useState(false); 
 
     const handleLogin = () => {
 
