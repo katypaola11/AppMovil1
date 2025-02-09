@@ -10,8 +10,8 @@ export const styles = StyleSheet.create({
     logo: {
         alignSelf: 'center',
         marginBottom: 20,
-        width:200,
-        height: 200,
+        width:150,
+        height: 150,
         borderRadius: 100
     },
     title: {
@@ -33,8 +33,8 @@ export const styles = StyleSheet.create({
         borderColor: '#4A2A04',
         borderWidth: 1,
         borderRadius: 5,
-        paddingHorizontal: 10,
-        marginBottom: 15,
+        paddingHorizontal: 5,
+        marginBottom: 1,
         backgroundColor: '#ffffff',
     },
     button: {
